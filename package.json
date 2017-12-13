@@ -1,0 +1,32 @@
+{
+  "name": "maya-cli",
+  "version": "0.1.0",
+  "description": "Nodejs WebGL webapp framework",
+  "main": "bin/start.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdevonbutler/maya.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "js",
+    "webapp",
+    "framework",
+    "webgl",
+    "brahma",
+    "maya"
+  ],
+  "author": "Jay Pescione <jpescione@gmail.com> (https://github.com/iamdevonbutler)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamdevonbutler/maya/issues"
+  },
+  "homepage": "https://github.com/iamdevonbutler/maya#readme"
+}
